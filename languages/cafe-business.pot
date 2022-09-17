@@ -1,0 +1,132 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Cafe Business\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-31 08:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-4.9.12"
+
+#: functions.php:40
+msgid "Theme Information"
+msgstr ""
+
+#: functions.php:59
+msgid "Information Links"
+msgstr ""
+
+#: functions.php:70
+msgid "Need help?"
+msgstr ""
+
+#: functions.php:71
+msgid "Theme Documentation"
+msgstr ""
+
+#: functions.php:71 functions.php:72 functions.php:73 functions.php:74
+msgid "here"
+msgstr ""
+
+#: functions.php:72
+msgid "Theme Demo"
+msgstr ""
+
+#: functions.php:73
+msgid "Support Forum"
+msgstr ""
+
+#: functions.php:74
+msgid "Rate this theme"
+msgstr ""
+
+#: functions.php:130 functions.php:202
+msgid "Make A Quick Call"
+msgstr ""
+
+#: functions.php:131 functions.php:220
+msgid "+1 2345678910"
+msgstr ""
+
+#: functions.php:192
+msgid "Header Phone Settings"
+msgstr ""
+
+#: functions.php:210
+msgid "Header Phone Text"
+msgstr ""
+
+#: functions.php:228
+msgid "Header Phone Number"
+msgstr ""
+
+#: functions.php:252
+msgid "Learn More"
+msgstr ""
+
+#: functions.php:253
+msgid "Contact Us"
+msgstr ""
+
+#: functions.php:463
+msgid "http://prosysthemes.com/wordpress-themes/cafe-business/"
+msgstr ""
+
+#: functions.php:463
+msgid "Cafe Business By Prosys Theme. "
+msgstr ""
+
+#: functions.php:464
+#, php-format
+msgid "Powered by %s"
+msgstr ""
+
+#: functions.php:464
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: functions.php:464
+msgid "WordPress"
+msgstr ""
+
+#. Name of the theme
+msgid "Cafe Business"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Cafe Business is a child theme for Bakery Shop WordPress theme. Cafe "
+"Business WordPress theme is fully flexible wordpress theme for any kine of "
+"shop. Cafe Business is a modern Multipurpose responsive Coffee Shop style "
+"WordPress theme suitable for business, portfolio, food, bakery shop, cake "
+"shop, coffee shop, travel, blogs, publishing and any kind of sites. This "
+"theme supports Ecommerce so that this theme can be used in any kind of shops."
+" The theme is built on Customizer and it allows you to easily customize your "
+"website with live previews. The theme is Speed and Search Engine Optimized "
+"(SEO) to help you easily climb the google rank. Other feature includes "
+"social media integration, custom widgets, author bio, breadcrumb, custom CSS,"
+" translation ready and more. Check demo at http://prosysthemes.com/theme-"
+"demos/?theme_demos=cafe-business and documentation at http://docs."
+"prosysthemes.com/cafe-business. Read theme details at http://prosysthemes."
+"com/wordpress-themes/cafe-business and get support at http://prosysthemes."
+"com/forums."
+msgstr ""
+
+#. URI of the theme
+msgid "http://prosysthemes.com/wordpress-themes/cafe-business"
+msgstr ""
+
+#. Author of the theme
+msgid "Prosys Theme"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://prosysthemes.com"
+msgstr ""
